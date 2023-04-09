@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-apiVersion: v2
+apiVersion: v1
 name: apisix
 description: A Helm chart for Apache APISIX v3
 icon: https://apache.org/logos/res/apisix/apisix.png
